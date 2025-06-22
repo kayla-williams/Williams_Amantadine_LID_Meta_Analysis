@@ -3,8 +3,8 @@
 This repository provides the R code for the manuscript titled "A meta-analysis of the long-term efficacy of Amantadine for Levodopa-induced dyskinesia in Parkinson’s Disease", authored by Williams, K., Curtis, M. A., Gombinsky, L., and Parmar, P.
 The code was developed to be specific to the analyses conducted in the above manuscript and is not intended for use in any other context. Each script is specific to one of the Parkinson’s Disease motor outcomes of the analysis, including:
 
-- The Unified Parkinson’s Disease Rating Scale (UPDRS) or Movement Disorder Society Unified Parkinson’s Disease Rating Scale (MDS-UPDRS) Part III, IV, and IVa (exploratory subset)
-- The Unified Dyskinesia Rating Scale (UDysRS)
+- The Unified Parkinson’s Disease Rating Scale (UPDRS) or Movement Disorder Society Unified Parkinson’s Disease Rating Scale (MDS-UPDRS) score for Part III, IV, and IVa (exploratory subset)
+- The Unified Dyskinesia Rating Scale (UDysRS) total score
 - Daily “ON” time in hours, with and without troublesome dyskinesia
 - Daily “OFF” time in hours
 
